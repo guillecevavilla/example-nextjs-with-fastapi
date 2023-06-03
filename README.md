@@ -1,0 +1,1 @@
+# example-nextjs-with-fastapi
